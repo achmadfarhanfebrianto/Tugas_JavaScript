@@ -1,0 +1,14 @@
+{
+  "name": "tugas-sanber-week-3",
+  "version": "1.0.0",
+  "description": "Tugas Sanber week 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "han",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
